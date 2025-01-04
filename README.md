@@ -3,8 +3,8 @@ Point of Sale Using Laravel
 
 1. Clone the Repository
 To get started, clone or download the repository:
+git clone https://github.com/mianwasif/POS.git
 
-git clone https://github.com/fajarghifar/laravel-point-of-sale
 2. Set Up the Project
 Once you’ve cloned the repository, navigate to the project directory and install dependencies:
 
